@@ -8,9 +8,10 @@
   width: 90%;
   height: 100;
   background-color: #c9c9c9;
+  border: 5px solid red;
 }
 .right {
   width: 10%;
   height: 100%;
-  
+  border: 5px solid red;
 }
