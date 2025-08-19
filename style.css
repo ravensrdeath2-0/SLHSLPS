@@ -17,22 +17,19 @@ body {
 	justify-content: center;
 }
 .main {
-  height: 100%;
-  width: 100%;
-  display: flex;
-  flex-direction: row;
+	width: 100%;
+	display: flex;
+  	flex-direction: row;
 }
 .left {
-  width: 90%;
-  height: 100%;
-  background-color: #c9c9c9;
-  border: 5px solid red;
+	min-width: 90%;
+	width: 90%;
+	background-color: #c9c9c9;
 }
 .right {
-  width: 10%;
-  height: 100%;
-  border: 5px solid red;
-  background-color: #546d91;
+	min-width: 10%;
+  	width: 10%;
+  	background-color: #546d91;
 }
 .test-box {
 	min-width: 90%;
